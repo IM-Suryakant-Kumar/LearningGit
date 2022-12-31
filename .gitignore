@@ -6,3 +6,10 @@
 # subDir/
 
 l?b.?xt
+
+
+# git rm-> rm(terminal) + git add
+# git rm <filename>
+# git rm -f <filename>
+# git rm --cached <filename>
+# git commit --amend
