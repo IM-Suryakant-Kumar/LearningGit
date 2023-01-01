@@ -1,3 +1,18 @@
+# clone-> team
+# clone-> changes-> push
+# write access
+
+# write access
+
+
+# open source contribute
+# fork github
+# clone
+# changes unhe push github
+# repo owner incorporate
+
+
+
 # hello.txt
 # /todo
 # *.a
@@ -13,3 +28,7 @@
 # git rm -f <filename>
 # git rm --cached <filename>
 # git commit --amend
+
+# git reset --soft
+# --mixed
+# --hard
