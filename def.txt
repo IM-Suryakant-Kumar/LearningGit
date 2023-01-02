@@ -1,3 +1,6 @@
 hello def no man
 
 hello hi
+hello def
+
+what do u store ?
